@@ -1,0 +1,49 @@
+.jumbotron {
+    background-image: linear-gradient(#94C5CC, white);
+    margin-top: 20px;
+    background-size: cover;
+    width: 450px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.coArt {
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.container1 {
+    display: inline-flex;
+}
+.research {
+    display: inline-flex;
+}
+.card1 {
+    margin-left: 50px;
+    margin-top: 200px;
+}
+.card2 {
+    margin-left: 300px;
+    margin-top: 250px;
+}
+.protoImg {
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.media-body {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.list-group p {
+    font-size: 36pt;
+}
+.media {
+    width: 600px;
+    display: inline-flex;
+}
+.proto {
+    margin-top: 200px;
+    margin-left: 500px;
+    font-size: 36pt;
+}
